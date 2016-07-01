@@ -1,3 +1,7 @@
+:warning: Please note that this text was written late 2011 :warning:
+
+----
+
 #tl;dr
 
 This text describes the reasoning and deployment layout for the sample service implemented in this project.
@@ -162,7 +166,7 @@ When running Tomcat on port 8080 (with the same WAR file deployed twice with dif
 
 # Conclusion
 
-At the time of this writing I'm leaning into this being pragmatic. And pragmatism is my overall goal, but I'm far from sure that this is the best way to achieve it. Comments and feedback are, as always, very welcome. Yell at me via Twitter [@martengustafson](http://www.twitter.com/martengustafson) or email me at [marten.gustafson@gmail.com](mailto:marten.gustafson@gmail.com).
+At the time of this writing I'm leaning into this being pragmatic. And pragmatism is my overall goal, but I'm far from sure that this is the best way to achieve it. Comments and feedback are, as always, very welcome. Yell at me via Twitter [@chids](https://www.twitter.com/chids) or email me at [marten.gustafson@gmail.com](mailto:marten.gustafson@gmail.com).
 
 # Other resources / see also
 
