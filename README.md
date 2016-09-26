@@ -1,3 +1,7 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+----
+
 :warning: Please note that this text was written late 2011 :warning:
 
 ----
